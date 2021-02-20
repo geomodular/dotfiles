@@ -1,0 +1,51 @@
+[submodule ".vim/bundle/typescript-vim"]
+	path = .vim/bundle/typescript-vim
+	url = https://github.com/leafgarland/typescript-vim
+[submodule ".vim/bundle/vim-airline"]
+	path = .vim/bundle/vim-airline
+	url = https://github.com/vim-airline/vim-airline
+[submodule ".vim/bundle/vim-airline-themes"]
+	path = .vim/bundle/vim-airline-themes
+	url = https://github.com/vim-airline/vim-airline-themes
+[submodule ".vim/bundle/vim-colors-solarized"]
+	path = .vim/bundle/vim-colors-solarized
+	url = https://github.com/altercation/vim-colors-solarized
+[submodule ".vim/bundle/vimerl"]
+	path = .vim/bundle/vimerl
+	url = https://github.com/jimenezrick/vimerl
+[submodule ".vim/bundle/vim-prettier"]
+	path = .vim/bundle/vim-prettier
+	url = https://github.com/prettier/vim-prettier
+[submodule ".vim/bundle/vim-sensible"]
+	path = .vim/bundle/vim-sensible
+	url = https://github.com/tpope/vim-sensible.git
+[submodule ".vim/bundle/Zenburn"]
+	path = .vim/bundle/Zenburn
+	url = https://github.com/vim-scripts/Zenburn
+[submodule ".vim/bundle/syntastic"]
+	path = .vim/bundle/syntastic
+	url = https://github.com/vim-syntastic/syntastic.git
+[submodule ".vim/bundle/vim-flake8"]
+	path = .vim/bundle/vim-flake8
+	url = https://github.com/nvie/vim-flake8
+[submodule ".vim/bundle/vim-crystal"]
+	path = .vim/bundle/vim-crystal
+	url = https://github.com/rhysd/vim-crystal
+[submodule ".vim/bundle/vim-commentary"]
+	path = .vim/bundle/vim-commentary
+	url = https://github.com/tpope/vim-commentary
+[submodule ".vim/bundle/vim-fugitive"]
+	path = .vim/bundle/vim-fugitive
+	url = https://github.com/tpope/vim-fugitive
+[submodule ".vim/bundle/darktango.vim"]
+	path = .vim/bundle/darktango.vim
+	url = https://github.com/vim-scripts/darktango.vim
+[submodule ".vim/bundle/nim.vim"]
+	path = .vim/bundle/nim.vim
+	url = https://github.com/zah/nim.vim
+[submodule ".vim/bundle/vim-lua-ftplugin"]
+	path = .vim/bundle/vim-lua-ftplugin
+	url = https://github.com/xolox/vim-lua-ftplugin
+[submodule ".vim/bundle/vim-misc"]
+	path = .vim/bundle/vim-misc
+	url = https://github.com/xolox/vim-misc
